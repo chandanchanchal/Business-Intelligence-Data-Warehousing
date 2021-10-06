@@ -1,5 +1,5 @@
 # Business-Intelligence-Data-Warehousing
-This project was made possible with the help of my colleagues Nalisha Men and Paula San Roman. The original dataset can be downloaded from here: https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log
+ The original dataset can be downloaded from here: https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log
 
 ## 1. Data Warehouse Modeling
 The goal here is to  present a design of a data warehouse/data mart for an IT Operations Log System. The main executed task were: 
