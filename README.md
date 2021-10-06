@@ -1,13 +1,4 @@
 # Business-Intelligence-Data-Warehousing
-In this repository, I share an End-to-End BI &amp; DW project done during my studies at IE University:
-
-The dataset is an event log that describes the process of how an incident within the ServiceNow Solution for Incident Management System is reported, processed and managed within an IT company. The data is collected from an audit system for one instance of the ServiceNow platform for Year 2016 (https://www.servicenow.com/products/incident-management.html).
-
-When an incident happens, the IT company needs to correct failures as soon as possible to minimize the impact on normal business operations.
-
-The business objective is to help the IT company reduce the completion time for incident resolution (Ticket Completion Time). The analytic method investigates into the repetitive incident categories, resolution steps, and task overload during the processes.
-
-
 This project was made possible with the help of my colleagues Nalisha Men and Paula San Roman. The original dataset can be downloaded from here: https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log
 
 ## 1. Data Warehouse Modeling
